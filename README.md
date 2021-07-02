@@ -43,6 +43,6 @@ python test.py --dataset nuclei
 ```
 
 ## Reference
-- Deep Co-training
+* [Deep Co-training](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
 
 ## Citing Duo-SegNet
