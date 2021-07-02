@@ -4,10 +4,12 @@ This repo contains the supported pytorch code and configuration files to reprodu
 
 ![Dual View Architecture](img/duo_segnet.png?raw=true)
 
-# Usage
+## Environment
 
 ## Data Preparation
 
-## Training
+## Train/Test
 
-## Inference
+## Reference
+
+## Citation
