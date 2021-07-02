@@ -14,6 +14,22 @@ Please prepare an environment with python=3.8, and then run the command "pip ins
   - Heart (MSD)
 
 - File structure
+    ```
+     data
+      ├── nuclei
+      |   ├── train
+      │   │   ├── image
+      │   │   │   └── 00ae65...
+      │   │   └── mask
+      │   │       └── 00ae65...       
+      ├── spleen
+      ├── heart
+      │   
+      |
+      Duo-SegNet
+      ├──train.py
+      ...
+    ```
 
 ## Train/Test
 - Train : Run the train script on nuclei dataset for 5% of labeled data. 
