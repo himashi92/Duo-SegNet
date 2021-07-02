@@ -21,5 +21,6 @@ python test.py --dataset nuclei
 ```
 
 ## Reference
+- Deep Co-training
 
 ## Citing Duo-SegNet
