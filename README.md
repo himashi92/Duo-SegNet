@@ -5,6 +5,7 @@ This repo contains the supported pytorch code and configuration files to reprodu
 ![Dual View Architecture](img/duo_segnet.png?raw=true)
 
 ## Environment
+Please prepare an environment with python=3.8, and then run the command "pip install -r requirements.txt" for the dependencies.
 
 ## Data Preparation
 
