@@ -2,7 +2,7 @@
 
 This repo contains the supported pytorch code and configuration files to reproduce medical image segmentaion results of Duo-SegNet. 
 
-![Alt text](img/duo_segnet.pdf?raw=true "Title")
+![Dual View Architecture](img/duo_segnet.png?raw=true)
 
 # Usage
 
