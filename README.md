@@ -10,7 +10,7 @@ Please prepare an environment with python=3.8, and then run the command "pip ins
 ## Data Preparation
 
 ## Train/Test
-- Train : Run the train script on nuclei dataset. 
+- Train : Run the train script on nuclei dataset for 5% of labeled data. 
 ```bash
 python train.py --dataset nuclei --ratio 0.05 --epoch 200
 ```
