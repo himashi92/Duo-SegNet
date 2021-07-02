@@ -8,6 +8,10 @@ This repo contains the supported pytorch code and configuration files to reprodu
 Please prepare an environment with python=3.8, and then run the command "pip install -r requirements.txt" for the dependencies.
 
 ## Data Preparation
+- For experiments we used three datasets:
+- - Nuclei (Data Science Bowl 2018)
+- - Spleen (MSD)
+- - Heart (MSD)
 
 ## Train/Test
 - Train : Run the train script on nuclei dataset for 5% of labeled data. 
