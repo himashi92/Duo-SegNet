@@ -26,7 +26,7 @@ Please prepare an environment with python=3.8, and then run the command "pip ins
       ├── heart
       │   
       |
-      Duo-SegNet
+     Duo-SegNet
       ├──train.py
       ...
     ```
