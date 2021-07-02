@@ -10,16 +10,16 @@ Please prepare an environment with python=3.8, and then run the command "pip ins
 ## Data Preparation
 
 ## Train/Test
-- Train
+- Train : Run the train script on nuclei dataset. 
 ```bash
 python train.py --dataset nuclei --ratio 0.05 --epoch 200
 ```
 
-- Test
+- Test : Run the test script on nuclei dataset. 
 ```bash
 python test.py --dataset nuclei
 ```
 
 ## Reference
 
-## Citation
+## Citing Duo-SegNet
