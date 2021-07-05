@@ -45,10 +45,9 @@ python test.py --dataset nuclei
 ```
 
 ## Acknowledgements
-This repository makes liberal use of code from [pytorch-unet]() and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+This repository makes liberal use of code from [Deep Co-training](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition) and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
-## Reference
-* [Deep Co-training](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
+## References
 * [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
 * [Medical segmentation decathlon](http://medicaldecathlon.com/)
 
