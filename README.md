@@ -4,7 +4,7 @@ This repo contains the supported pytorch code and configuration files to reprodu
 
 ![Dual View Architecture](img/duo_segnet.png?raw=true)
 
-$\{\mathcal{F}_i(\cdot)\}_{i=1}^2$ and $\psi(\cdot)$ denote Segmentation networks and Critic network. Here, Critic criticizes between prediction masks and the ground truth masks to perform the min-max game.
+$\{\mathcal{F}_i(\cdot)\}_{i=1}^2$ and <a href="https://www.codecogs.com/eqnedit.php?latex=\psi&space;(\cdot)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\psi&space;(\cdot)" title="\psi (\cdot)" /></a> denote Segmentation networks and Critic network. Here, Critic criticizes between prediction masks and the ground truth masks to perform the min-max game.
 
 ## Environment
 Please prepare an environment with python=3.8, and then run the command "pip install -r requirements.txt" for the dependencies.
