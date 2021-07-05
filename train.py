@@ -27,8 +27,6 @@ parser.add_argument('--batchsize', type=int, default=1, help='training batch siz
 parser.add_argument('--trainsize', type=int, default=256, help='training dataset size')
 parser.add_argument('--dataset', type=str, default='nuclei', help='dataset name')
 parser.add_argument('--split', type=float, default=0.8, help='training data ratio')
-
-# params for co-training
 parser.add_argument('--momentum', default=0.9, type=float)
 parser.add_argument('--decay', default=3e-5, type=float)
 parser.add_argument('--ratio', type=float, default=0.05, help='labeled data ratio')
@@ -165,6 +163,7 @@ class Network(object):
                 running_loss += seg_loss.item()
                 optimizer.step()
 
+                # Train Critic
                 dis_optimizer.zero_grad()
                 prediction_1 = prediction_1.detach()
                 prediction_2 = prediction_2.detach()
