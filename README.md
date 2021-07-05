@@ -44,6 +44,9 @@ python train.py --dataset nuclei --ratio 0.05 --epoch 200
 python test.py --dataset nuclei
 ```
 
+## Acknowledgements
+This repository makes liberal use of code from [pytorch-unet]() and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 ## Reference
 * [Deep Co-training](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
 * [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
