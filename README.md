@@ -9,9 +9,9 @@ Please prepare an environment with python=3.8, and then run the command "pip ins
 
 ## Data Preparation
 - For experiments we used three datasets:
-  - Nuclei (Data Science Bowl 2018)
-  - Spleen (MSD)
-  - Heart (MSD)
+  - Nuclei (2018 Data Science Bowl)
+  - Spleen (Medical segmentation decathlon - MSD)
+  - Heart ([Medical segmentation decathlon - MSD)
 
 - File structure
     ```
@@ -44,5 +44,7 @@ python test.py --dataset nuclei
 
 ## Reference
 * [Deep Co-training](https://github.com/AlanChou/Deep-Co-Training-for-Semi-Supervised-Image-Recognition)
+* [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
+* [Medical segmentation decathlon](http://medicaldecathlon.com/)
 
 ## Citing Duo-SegNet
