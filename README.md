@@ -1,6 +1,6 @@
 # Duo-SegNet: Adversarial Dual-Views for Semi-Supervised Medical Image Segmentation
 
-This repo contains the supported pytorch code and configuration files to reproduce medical image segmentaion results of Duo-SegNet. 
+This repo contains the supported pytorch code and configuration files to reproduce medical image segmentaion results of [Duo-SegNet](https://arxiv.org/pdf/2108.11154.pdf). 
 
 ![Dual View Architecture](img/duo_segnet.png?raw=true)
 
