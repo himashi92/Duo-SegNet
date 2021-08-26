@@ -52,3 +52,13 @@ This repository makes liberal use of code from [Deep Co-training](https://github
 * [Medical segmentation decathlon](http://medicaldecathlon.com/)
 
 ## Citing Duo-SegNet
+```bash
+    @misc{peiris2021duosegnet,
+          title={Duo-SegNet: Adversarial Dual-Views for Semi-Supervised Medical Image Segmentation}, 
+          author={Himashi Peiris and Zhaolin Chen and Gary Egan and Mehrtash Harandi},
+          year={2021},
+          eprint={2108.11154},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV}
+    }
+```
