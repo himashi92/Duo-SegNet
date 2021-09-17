@@ -33,6 +33,8 @@ Please prepare an environment with python=3.8, and then run the command "pip ins
       ...
     ```
 
+ - Use [Med2Image](https://github.com/FNNDSC/med2image) to convert NIFTI to PNG.
+ 
 ## Train/Test
 - Train : Run the train script on nuclei dataset for 5% of labeled data. 
 ```bash
