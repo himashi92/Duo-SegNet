@@ -55,12 +55,12 @@ This repository makes liberal use of code from [Deep Co-training](https://github
 
 ## Citing Duo-SegNet
 ```bash
-    @misc{peiris2021duosegnet,
-          title={Duo-SegNet: Adversarial Dual-Views for Semi-Supervised Medical Image Segmentation}, 
-          author={Himashi Peiris and Zhaolin Chen and Gary Egan and Mehrtash Harandi},
-          year={2021},
-          eprint={2108.11154},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
+    @inproceedings{peiris2021duo,
+      title={Duo-SegNet: Adversarial Dual-Views for Semi-Supervised Medical Image Segmentation},
+      author={Peiris, Himashi and Chen, Zhaolin and Egan, Gary and Harandi, Mehrtash},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={428--438},
+      year={2021},
+      organization={Springer}
     }
 ```
